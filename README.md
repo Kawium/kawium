@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey, I'm Kawium 👋
 
-<!--
-**Kawium/kawium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 22y/o frontend developer.
 
-Here are some ideas to get you started:
+## 🔭 Current
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently studying HTML & CSS and JS in Sweden.
+
+## ⚡️ Experience
+
+I am Frontend developer. I have worked with [Heidisql](https://www.heidisql.com/)
+
+## 📫 Contact
+
+To contact me quickly and easily, [DM me on Twitter](https://twitter.com/KawiumDev).
+
+You can also email me:
+
+**General Inquiries:** hello@kawium.dev  
