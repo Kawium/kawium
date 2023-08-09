@@ -1,19 +1,23 @@
-### Hey, I'm Kawium 👋
+👤 **Name:** Kawium
 
-I'm a 22y/o frontend developer.
+### 🔭 Current
 
-## 🔭 Current
+I'm currently working on honing my frontend development skills and creating engaging user experiences.
 
-I'm currently studying HTML & CSS and JS in Sweden.
+### ⚡️ Experience
 
-## ⚡️ Experience
+- **Frontend Developer**
+  - Collaborated on projects using modern frontend technologies to deliver responsive and user-friendly web applications.
+  - Worked with tools like Heidisql for efficient database management and optimization.
 
-I am Frontend developer. I have worked with [Heidisql](https://www.heidisql.com/)
+### 🌱 Skills
 
-## 📫 Contact
+Frontend Technologies: HTML, CSS, JavaScript, React, Redux
+Database Management: Heidisql, MySQL
+Version Control: Git, GitHub
 
-To contact me quickly and easily, [DM me on Twitter](https://twitter.com/KawiumDev).
+### 📫 Contact
 
-You can also email me:
+Feel free to reach out to me via email at hello@kawium.dev or through a direct message on [Twitter](https://twitter.com/KawiumDev). I'm always open to connecting and discussing exciting opportunities.
 
-**General Inquiries:** hello@kawium.dev  
+Looking forward to continued growth and collaboration in the frontend development world! 🚀
